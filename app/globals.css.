@@ -399,4 +399,5 @@ footer p {
   .pack-card {
     padding: 25px;
   }
+}
 
